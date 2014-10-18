@@ -9,3 +9,4 @@ This repository contains several commits on `master` branch and two on feature b
 * Initiate a Pull Requests from a topic branch
 * Create a single commit with `git merge --squash`
 * Rewriting history with `git rebase`
+* Add a change
